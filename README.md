@@ -1,10 +1,11 @@
 # DOS 
 
-Make more traffic 😬
+Make more traffic for **Military Coup** 😬
 
 # Requirement
 
 Clone this repo.
+
 **Python2**
 
 # Usage
@@ -26,3 +27,8 @@ Add -> `1` as Port No
 - php
 - rust
 
+**Disclaimer** 
+I know my python skill is bad.
+I am py dev.
+
+Fight for democracy in **Myanmar**.
