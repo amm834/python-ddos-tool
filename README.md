@@ -1,26 +1,25 @@
-# DOS 
+# DDOS attacking tool
 
 Make more traffic for **Military Coup** 😬
 
-# Requirement
+# Requirements
 
-Clone this repo.
-
-**Python2**
+- Python Version 2.0
 
 # Usage
 
 ```py
-python2 dos.py
-# input ip address
-# input port no whatever you like
+python2 ddos.py
+# Enter ip address
+# Enter port number whatever you like
 ```
 
-For testing 
-Add -> `203.81.84.138` as IP address
-Add -> `1` as Port No
+# Testing
 
-203.81.84.138 = https://cincds.gov.mm/
+- `203.81.84.138` as IP address
+- `1` as Port Number
+
+ 203.81.84.138 is https://cincds.gov.mm/
 
 # ToDo List
 
@@ -28,7 +27,7 @@ Add -> `1` as Port No
 - rust
 
 **Disclaimer** 
-I know my python skill is bad.
-I am py dev.
+I know myself who python skill is really bad.
+I am not a py dev.
 
 Fight for democracy in **Myanmar**.
