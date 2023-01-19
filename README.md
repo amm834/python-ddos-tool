@@ -1,6 +1,6 @@
-# DDOS attacking tool
+# DDOS 
 
-Make more traffic for **Military Coup** 😬
+Make more network traffic for **Military Coup** 😬
 
 # Requirements
 
@@ -26,8 +26,5 @@ python2 ddos.py
 - php
 - rust
 
-**Disclaimer** 
-I know myself who python skill is really bad.
-I am not a py dev.
 
 Fight for democracy in **Myanmar**.
